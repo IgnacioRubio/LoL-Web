@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+/* CABECERA */
+.navbar{
+	margin-bottom: 0;
+}
+
+.jumbotron{
+	background-color: #395675;
+	color: white;
+}
+
+
+/* CONTENIDO */
+.cont-titulo{
+	border: 3px black groove;
+	color: white;
+	background-color: #222222;
+	box-sizing: border-box;
+	padding-left: 10px;
+}
+
+p{
+	text-align: justify;
+}
+
+
+/* PIE DE PAGINA */ 
+footer{
+	margin-top: 40px;
+	padding-top: 30px;
+	background-color: #222222;
+	color: white;
+}
+
+
+/* AUXILIARES */
+.gap-to-0{
+	margin-top: 0;
+}
+
+.gap-to-20{
+	margin-top: 20px;
+}
+.gap-to-40{
+	margin-top: 40px;
+}
+
+.gap-bo-20{
+	margin-bottom: 20px;
+}
